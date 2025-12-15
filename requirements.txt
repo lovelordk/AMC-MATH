@@ -1,0 +1,14 @@
+# 核心 Web 界面框架
+streamlit
+
+# 数据可视化 (画韦恩图、几何图)
+matplotlib
+numpy
+
+# 数据处理 (读取你未来整理的题库 Excel/CSV)
+pandas
+openpyxl
+
+# AI 模型接口 (接入 ChatGPT/OpenAI)
+openai
+python-dotenv
